@@ -1,5 +1,16 @@
 # diabetes.page jitisi-meet
 
+This repository contains code which was written for the now-concluded startup diabetes.page. The code is now licensed under the Apache license.
+
+The following people participated in this startup (in alphabetical order):
+- Alexander Remmes
+- David Matthaei
+- Joe Hewett
+- Philipp Page
+- Tom Diacono
+- Vincent Rolfs
+
+
 This the frontend of the videostreaming service of diabetes.page. It is a modified version of [`jitsi-meet`](https://github.com/jitsi/jitsi-meet).
 
 ## Installation
